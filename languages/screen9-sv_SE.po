@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Screen9 Video Plugin\n"
+"POT-Creation-Date: 2013-07-01 12:09+0100\n"
+"PO-Revision-Date: 2013-07-01 12:09+0100\n"
+"Last-Translator: OlaL\n"
+"Language-Team: screen9 <info@adeprimo.se>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../screen9.php:47
+msgid "Videos"
+msgstr "Videor"
+
+#: ../screen9.php:48 ../screen9_article_meta_box.php:8
+msgid "Video"
+msgstr ""
+
+#: ../screen9.php:49
+msgid "Create new"
+msgstr "Skapa ny"
+
+#: ../screen9.php:68
+msgid "Video data"
+msgstr "Videodata"
+
+#: ../screen9.php:128
+msgid "Description:"
+msgstr "Beskrivning:"
+
+#: ../screen9.php:131
+msgid "Category:"
+msgstr "Kategori:"
+
+#: ../screen9.php:141
+msgid "Upload"
+msgstr "Ladda upp"
+
+#: ../screen9.php:152
+msgid "Length"
+msgstr "Längd"
+
+#: ../screen9.php:153
+msgid "Displays"
+msgstr "Visningar"
+
+#: ../screen9.php:154
+msgid "File name"
+msgstr "Filnamn"
+
+#: ../screen9.php:160
+msgid "Embed code:"
+msgstr "Embedkod:"
+
+#: ../screen9.php:164
+msgid "Thumbnails"
+msgstr "Tumnaglar"
+
+#: ../screen9.php:166
+msgid "Select thumbnail"
+msgstr "Välj tumnagel"
+
+#: ../screen9.php:259
+msgid "You have not uploaded a file"
+msgstr "Du har inte laddat upp någon fil"
+
+#: ../screen9_admin.php:8 ../screen9_admin.php:15
+msgid "Settings Screen9"
+msgstr "Inställningar Screen9"
+
+#: ../screen9_admin.php:34
+msgid "Credentials"
+msgstr "Uppgifter"
+
+#: ../screen9_admin.php:54
+msgid "Id of the screen9 user uploaded material should belong to"
+msgstr "Ange id på den Screen9 användare du vill ladda upp material som"
+
+#: ../screen9_article_meta_box.php:19
+msgid "Selected video"
+msgstr "Utvald video"
+
+#: ../screen9_video_list_widget.php:13
+msgid "Title"
+msgstr "Rubrik"
+
+#: ../screen9_video_list_widget.php:14
+msgid "Number of videos to display:"
+msgstr "Antal videos att visa:"
+
+#: ../single-screen9_video.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Föregående"
+
+#: ../single-screen9_video.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nästa <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Skapa ny"
+#~ msgstr "Create new"
+
+#~ msgid "Ladda upp"
+#~ msgstr "Upload"
+
+#~ msgid "Tumnaglar"
+#~ msgstr "Thumbnails"
+
+#~ msgid "Beskrivning:"
+#~ msgstr "Description"
